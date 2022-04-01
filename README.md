@@ -50,6 +50,8 @@
 
 ## 03. Презентация результатов анализа AB теста.pdf
 
+Ссылка на перезентацию: https://www.canva.com/design/DAE7WzCyOss/LO5ua99LzMkx4DtRUo7TtQ/view
+
 слайд 2. Дизайн A/B теста
 
 слайд 3-4. Общие результаты A/B теста
